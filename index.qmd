@@ -13,6 +13,12 @@ title-block-banner: true
 
 # Bienvenidos a mi Blog: Explorando la Ingeniería Mecánica
 
+<br>
+
+![](https://cdn-icons-png.flaticon.com/512/5347/5347690.png){fig-align="center" width="240"}
+
+<br>
+
 ## Introducción
 
 ¡Hola a todos! Soy un estudiante de maestría en Ingeniería Mecánica en la Universidad del Norte. En este espacio, quiero compartir mis experiencias, conocimientos y reflexiones sobre mi trayectoria en este fascinante campo. Mi pasión por el aprendizaje y la resolución de problemas me ha llevado a explorar diversas herramientas y metodologías para optimizar sistemas y procesos. Acompáñenme en este viaje de descubrimiento y crecimiento continuo.<br>
