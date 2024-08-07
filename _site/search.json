@@ -9,7 +9,7 @@
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Diseño de experimentos",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
@@ -40,5 +40,19 @@
     "title": "Oscar Herrera Molinares’s Blog",
     "section": "",
     "text": "La ingeniería mecánica es un campo dinámico y en constante evolución. A través de este blog, espero poder compartir mi pasión y conocimientos con una comunidad más amplia. Invito a todos a unirse a mí en este viaje de descubrimiento y a compartir sus propias experiencias y conocimientos. Juntos, podemos empujar los límites de lo que es posible y hacer del mundo un lugar más eficiente y sostenible.\n¡Gracias por leer y espero que disfruten el contenido!"
+  },
+  {
+    "objectID": "posts/Experiencia laboral/index.html",
+    "href": "posts/Experiencia laboral/index.html",
+    "title": "Welcome To My Experiencia Laboral’s Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Diseño de experimentos/index.html",
+    "href": "posts/Diseño de experimentos/index.html",
+    "title": "Diseño de experimentos",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   }
 ]

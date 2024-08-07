@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Welcome To My Experiencia Laboral's Blog"
+author: "O. Herrera"
 date: "2024-08-04"
-categories: [news]
+categories: [Otros]
 ---
 
 This is the first post in a Quarto blog. Welcome!
